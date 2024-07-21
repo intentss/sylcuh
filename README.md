@@ -1,5 +1,5 @@
 # Hey! I'm
-<h1 style="color: #f000f0"">Sylcuh.
+<h1 style="color: goldenrod;">Sylcuh.</h1>
 
 <p align="center">
 	<tr>
