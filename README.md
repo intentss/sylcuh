@@ -1,3 +1,6 @@
+# Hey! I'm
+<h1 style="color: #f000f0"">Sylcuh.
+
 <p align="center">
 	<tr>
 		<td align="center" style="padding=0;width=50%;"> <img src="https://github-readme-stats.vercel.app/api/?username=sylcuh&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&enable_animations=true" /> </td>
